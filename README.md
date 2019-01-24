@@ -1,4 +1,5 @@
-# turbo-like
+# TurboLike
+# This script not work any more, for documentation only!
 Turbolike direct API Access<br /><br />
 
 <h3>Tutorial ? Contoh ada di script!</h3>
